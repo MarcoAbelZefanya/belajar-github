@@ -1,2 +1,4 @@
 Hallo,
-nama saya Marco Abel Zefanya
+nama saya Marco Abel Zefanya,
+umur saya 22,
+saya tinggal di Indonesia
